@@ -1,6 +1,8 @@
 {
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/dji-mini?DJI Mini"
+    ],
     "random": 6,
     "full_width": false
   },
