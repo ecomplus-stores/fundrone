@@ -4,13 +4,13 @@
   "primary_color": "#222831",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "clean-gray"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/fundrone",
   "logo": "/img/uploads/design-sem-nome-4-.png",
   "name": "fundrone",
-  "short_name": "fundrone",
+  "short_name": "FUNDRONE",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -21,6 +21,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/uploads/design-sem-nome-4-.png",
   "store_id": 51502,
-  "description": "fundrone",
+  "description": "LOJA ESPECIALIZADA EM DRONES DJI",
   "large_icon": "/img/uploads/design-sem-nome-4-.png"
 }
