@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.dd1a2a4329910b0a803bdba6fa27125c.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.21ba75d665850df4b65f7e1e053ecaa7.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.cdb0246ba7703f4e66a3a5014b2a19db.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.22852f529cffdf888c8c3456b0d2dc47.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.74d54367055baf616cb144d216666b87.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "FUNDRONE",
+  "short_name": "FUNDRONE",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "LOJA ESPECIALIZADA EM DRONES DJI",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
